@@ -3,4 +3,4 @@ This Windows .bat script aims to create a less intrusive and more cluttered vivo
 Made by Ayush Pandit, improved by Yusef Yebra.
 
 vivoDebloater User Guide:
-1. Download the required files by pressing the <b>green<b> `Code`<b>button<b> at the top
+1. Download the required files by pressing the <b>green<b> `Code`<b>button at the top
