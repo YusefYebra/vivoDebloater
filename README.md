@@ -5,7 +5,7 @@ Made by Ayush Pandit, improved by Yusef Yebra.
 vivoDebloater Pre-Use Guide
 1. Enable USB Debugging on your vivo device.
   - Enable `Developer options` first by going to <b>Settings > System management > About phone
-    - Press `Software version` <b>7 times to enable `Developer options`
+    - Press `Software version` 7 times to enable `Developer options`
   - Once enabled
   
 3. Extract `vivoDebloater-main.zip`
