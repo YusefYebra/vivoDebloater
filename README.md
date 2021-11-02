@@ -2,6 +2,8 @@
 This Windows .bat script aims to create a less intrusive and decluttered vivo device.
 Made by Ayush Pandit, improved by Yusef Yebra.
 
+You can find Ayush's YouTube channel on - https://www.youtube.com/channel/UCS51bjxe6N-du4HGLtm5nyA
+
 If you would like to contribute, email me at yusefyebra44@gmail.com
 
 Couple things to note:
